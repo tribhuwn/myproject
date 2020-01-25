@@ -1,5 +1,6 @@
 .idea
 node_modules
+package-lock.json
 jspm_packages
 npm-debug.log
 debug.log
